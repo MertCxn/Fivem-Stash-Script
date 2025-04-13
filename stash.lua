@@ -8,7 +8,7 @@ end)
 
 QBCore = exports['qb-core']:GetCoreObject() 
 
-KisiselDepolar = { #Get the vector3 position of the place you want to add here
+KisiselDepolar = { --Get the vector3 position of the place you want to add here
     vector3(265.89, -999.36, -99.01),
 },
 
